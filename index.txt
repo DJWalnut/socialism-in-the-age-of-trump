@@ -11,3 +11,7 @@ theory-notes - summaries of the key points of the theory documents
 videos - vidoes and video series that explain the topics at hand
 
 bibliography.txt - bibliography for all citations in documents in repo
+
+dictionary.txt - a dictionary of socialist terms
+
+license.txt - Document license. CC-BY for all origional works
