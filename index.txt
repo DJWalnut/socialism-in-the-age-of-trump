@@ -1,3 +1,13 @@
 Socialism in the Age of Trump - Index of Files:
 
-(list folder structure and files)
+electoralism - election info
+
+talking-points - premade talking points for common rhetoric seen in the field
+
+theory - full copies of the most relevant socialist theory
+
+theory-notes - summaries of the key points of the theory documents
+
+videos - vidoes and video series that explain the topics at hand
+
+bibliography.txt - bibliography for all citations in documents in repo
