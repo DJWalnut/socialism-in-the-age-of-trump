@@ -16,4 +16,6 @@ bibliography.txt - bibliography for all citations in documents in repo
 
 dictionary.txt - a dictionary of socialist terms
 
+left-media.txt - A list of socialist news media and political commentary
+
 license.txt - Document license. CC-BY for all origional works
